@@ -1,0 +1,11 @@
+program main
+  var 
+  int: i, x, y;
+  label: lab1;
+  start
+lab1 :;	  cin>>x>>y;
+	  for i=0 by 1 while i<10 
+	  do [y = x!=y ? y-1 : y+1];
+	  if x>y then goto lab1;
+	  cout<<y;
+  end
