@@ -10,3 +10,15 @@ C:\Users\Alexandra\Documents\Visual Studio 2015\Projects\Translator\Translator\o
 C:\Users\Alexandra\Documents\Visual Studio 2015\Projects\Translator\Translator\obj\Debug\AboControls.UserControls.NumberedRTB.resources
 C:\Users\Alexandra\Documents\Visual Studio 2015\Projects\Translator\Translator\obj\Debug\Translator.LexicalTablesForm.resources
 C:\Users\Alexandra\Documents\Visual Studio 2015\Projects\Translator\Translator\obj\Debug\Translator.MainForm.resources
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\bin\Debug\Translator.exe.config
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\bin\Debug\Translator.exe
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\bin\Debug\Translator.pdb
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\obj\Debug\Translator.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\obj\Debug\Translator.MainForm.resources
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\obj\Debug\Translator.LexicalTablesForm.resources
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\obj\Debug\AboControls.UserControls.NumberedRTB.resources
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\obj\Debug\Translator.Properties.Resources.resources
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\obj\Debug\Translator.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\obj\Debug\Translator.exe
+C:\Users\Alexandra\Documents\GitHub\Translator\Translator\obj\Debug\Translator.pdb

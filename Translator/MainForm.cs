@@ -63,7 +63,7 @@ namespace Translator
         private void openToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog1 = new OpenFileDialog();
-            openFileDialog1.InitialDirectory = "D:\\Универ\\КПИ\\Лингвистическое обеспечение";
+            openFileDialog1.InitialDirectory = "C:";
             openFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
             openFileDialog1.Title = "Select a Text File";
             openFileDialog1.FilterIndex = 2;
@@ -79,7 +79,7 @@ namespace Translator
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SaveFileDialog saveFileDialog1 = new SaveFileDialog();
-            saveFileDialog1.InitialDirectory = "D:\\Универ\\КПИ\\Лингвистическое обеспечение";
+            saveFileDialog1.InitialDirectory = "C:";
             saveFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
             saveFileDialog1.Title = "Save a Text File";
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
